@@ -11,10 +11,13 @@ sort: 2
 ![support_program](image/support_program.png)
 
 ## 마이스터 데이터취득 지원트랙
+- 마이스터 데이터 취득을 통하여 마이스터 로봇화의 시작단계검증을 할 수 있는 지원트랙
 
 ![track_data](image/track_data.png)
 
 ## 마이스터 로봇화 PoC 지원트랙
+- 사업단 구축장비 활용 공정모사환경 운용 (로봇, 센서장비 등)
+- 마이스터 로봇화의 컨셉을 사업단 테스트베드에서 확인하는 지원트랙
 
 ![track_poc](image/track_poc.png)
 
