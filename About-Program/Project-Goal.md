@@ -10,6 +10,8 @@ sort: 2
 
 ## 사업 추진체계
 
+![Program-System](Program-System.png)
+
 ### 주관기관
 - [한국전자기술연구원](https://www.keti.re.kr)
 
